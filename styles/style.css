@@ -1,0 +1,28 @@
+body{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    padding: 0 20px 20px 20px;
+    border: 1px solid;
+}
+
+h3{
+    color: black;
+    border: 1px solid black;
+}
+.Contenedor1 {
+    font-style: normal;
+    text-align: center;
+}
+
+.boton{
+    text-align: center;
+    background-color: skyblue;
+}
+
+.enviar{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    padding: 1rem;
+}
