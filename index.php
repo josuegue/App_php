@@ -18,6 +18,12 @@
                 <label for="file">Ingresa un archivo csv</label>
                 <br>
                 <input type="file" name="file" id="file" accept=".csv">
+                <br>
+                <br>
+                <label for="carnet">Ingresa tu numero de carnet</label>
+                <input type="text" name="carnet" id="carnet">
+                <br>
+                <br>
                 <button  class="boton" type="submit">Subir archivo</button>
             
         </form>
